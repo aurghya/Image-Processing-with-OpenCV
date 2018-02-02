@@ -1,4 +1,4 @@
-//
+//ROTATE AN IMAGE ADJUSTED BY THE TRACKBAR
 #include<iostream>
 #include<cmath>
 #include<opencv2/highgui/highgui.hpp>
